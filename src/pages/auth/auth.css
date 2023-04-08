@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+}
+
+.sign{
+    font-family: 'Playfair Display', serif;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.signinp{
+    display: flex;
+    height: 3rem;
+    width: 27rem;
+    border-radius: 0.5rem;
+    border: solid 0.15rem rgb(87, 87, 87);
+    padding-left: 1rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+.btn-sign{
+    margin-top: 2rem;
+    width: 27rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border: solid 0.1rem rgb(87, 87, 87);
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: black;
+    background-color: white;
+}
+
+.btn-sign:hover{
+    color: blueviolet;
+}
+
+.acc{
+    margin-top: 2rem;
+    display: flex;
+    gap: 5rem;
+}
+
+.acc-pass{
+    text-decoration: none;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+}
+
+
+
+
+
+.copyright{
+    margin-top: 3rem;
+}
