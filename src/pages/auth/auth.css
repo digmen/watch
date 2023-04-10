@@ -15,7 +15,7 @@
 
 .sign{
     font-family: 'Playfair Display', serif;
-    font-size: 5rem;
+    font-size: 4rem;
     display: flex;
     justify-content: center;
 }
@@ -63,9 +63,11 @@
 }
 
 
-
+.acc-pass:hover{
+    color: blueviolet;
+}
 
 
 .copyright{
-    margin-top: 3rem;
+   margin-top: 5rem;
 }

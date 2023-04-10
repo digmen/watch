@@ -2,7 +2,7 @@ import React from 'react';
 import './home.css';
 
 function HomePage() {
-  return <div></div>;
+  return <></>;
 }
 
 export default HomePage;

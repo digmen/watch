@@ -16,7 +16,7 @@ function Navbar() {
     <>
       <header className="watch container">
         <Link to={'/'} className="watch-title">
-          WATCHBOX
+          CHRONOS
         </Link>
       </header>
       <nav className="nav-watch container">
